@@ -1,0 +1,13 @@
+D:\Cheva\Winhex\Winhex\Winhex\obj\Debug\Winhex.csproj.AssemblyReference.cache
+D:\Cheva\Winhex\Winhex\Winhex\obj\Debug\Winhex.Properties.Resources.resources
+D:\Cheva\Winhex\Winhex\Winhex\obj\Debug\Winhex.csproj.GenerateResource.cache
+D:\Cheva\Winhex\Winhex\Winhex\obj\Debug\Winhex.csproj.CoreCompileInputs.cache
+D:\Cheva\Winhex\Winhex\Winhex\bin\Debug\Winhex.exe.config
+D:\Cheva\Winhex\Winhex\Winhex\bin\Debug\Winhex.exe
+D:\Cheva\Winhex\Winhex\Winhex\bin\Debug\Winhex.pdb
+D:\Cheva\Winhex\Winhex\Winhex\bin\Debug\Newtonsoft.Json.dll
+D:\Cheva\Winhex\Winhex\Winhex\bin\Debug\Ninject.dll
+D:\Cheva\Winhex\Winhex\Winhex\bin\Debug\Ninject.xml
+D:\Cheva\Winhex\Winhex\Winhex\obj\Debug\Winhex.csproj.CopyComplete
+D:\Cheva\Winhex\Winhex\Winhex\obj\Debug\Winhex.exe
+D:\Cheva\Winhex\Winhex\Winhex\obj\Debug\Winhex.pdb

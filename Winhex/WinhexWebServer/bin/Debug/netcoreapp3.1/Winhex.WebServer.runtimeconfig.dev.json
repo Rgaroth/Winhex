@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\viper\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\viper\\.nuget\\packages"
+    ]
+  }
+}

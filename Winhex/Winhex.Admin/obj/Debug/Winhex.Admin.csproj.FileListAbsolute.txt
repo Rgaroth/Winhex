@@ -1,0 +1,14 @@
+D:\Cheva\Winhex\Winhex\Winhex.Admin\bin\Debug\Winhex.Admin.exe.config
+D:\Cheva\Winhex\Winhex\Winhex.Admin\bin\Debug\Winhex.Admin.exe
+D:\Cheva\Winhex\Winhex\Winhex.Admin\bin\Debug\Winhex.Admin.pdb
+D:\Cheva\Winhex\Winhex\Winhex.Admin\bin\Debug\Newtonsoft.Json.dll
+D:\Cheva\Winhex\Winhex\Winhex.Admin\obj\Debug\Winhex.Admin.csproj.AssemblyReference.cache
+D:\Cheva\Winhex\Winhex\Winhex.Admin\obj\Debug\Winhex.Admin.MainForm.resources
+D:\Cheva\Winhex\Winhex\Winhex.Admin\obj\Debug\Winhex.Admin.GUI.SetNoteForm.resources
+D:\Cheva\Winhex\Winhex\Winhex.Admin\obj\Debug\Winhex.Admin.Properties.Resources.resources
+D:\Cheva\Winhex\Winhex\Winhex.Admin\obj\Debug\Winhex.Admin.csproj.GenerateResource.cache
+D:\Cheva\Winhex\Winhex\Winhex.Admin\obj\Debug\Winhex.Admin.exe.licenses
+D:\Cheva\Winhex\Winhex\Winhex.Admin\obj\Debug\Winhex.Admin.csproj.CoreCompileInputs.cache
+D:\Cheva\Winhex\Winhex\Winhex.Admin\obj\Debug\Winhex.Admin.csproj.CopyComplete
+D:\Cheva\Winhex\Winhex\Winhex.Admin\obj\Debug\Winhex.Admin.exe
+D:\Cheva\Winhex\Winhex\Winhex.Admin\obj\Debug\Winhex.Admin.pdb
